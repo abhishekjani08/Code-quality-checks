@@ -4,7 +4,7 @@
   "description": "Linting errors",
   "main": "testFile.js",
   "scripts": {
-    "test": "npm test",
+    "test": " npm run lint",
     "lint": "eslint"
   },
   "repository": {
