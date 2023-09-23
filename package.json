@@ -5,7 +5,7 @@
   "main": "testFile.js",
   "scripts": {
     "test": "npm test",
-    "lint": "eslint ."
+    "lint": "eslint"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abhishekjani08/Code-quality-checks/issues"
   },
-  "homepage": "https://github.com/abhishekjani08/Code-quality-checks#readme"
+  "homepage": "https://github.com/abhishekjani08/Code-quality-checks#readme",
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
 }

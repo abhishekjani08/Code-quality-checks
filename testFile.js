@@ -1,2 +1,4 @@
-let fullName = "Abhishek jani";
-console.log("My name is : " + fullName);
+let sum = (a, b) => {
+  return a+b;
+};
+console.log(sum(3,4));
