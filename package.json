@@ -1,0 +1,23 @@
+{
+  "name": "code-quality-checks",
+  "version": "1.0.0",
+  "description": "Linting errors",
+  "main": "testFile.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekjani08/Code-quality-checks.git"
+  },
+  "author": "Abhishek Jani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekjani08/Code-quality-checks/issues"
+  },
+  "homepage": "https://github.com/abhishekjani08/Code-quality-checks#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^27.3.1"
+  }
+}
